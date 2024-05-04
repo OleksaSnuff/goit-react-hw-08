@@ -1,0 +1,14 @@
+.header {
+  background-color: rgb(41, 41, 41);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 50px;
+  border: 1px solid rgb(92, 92, 92);
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  border-top: none;
+  width: 720px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
