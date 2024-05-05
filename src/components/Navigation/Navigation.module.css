@@ -9,3 +9,7 @@
 .link:hover {
   color: rgb(117, 124, 255);
 }
+.navigation {
+  display: flex;
+  gap: 20px;
+}
